@@ -105,6 +105,6 @@ will post the new version on this page and change the effective date above.
 
 ## 10. Contact
 
-Questions or requests about this policy: **[edgeoatalier@gmail.com]**
+Questions or requests about this policy: **edgeoatalier@gmail.com**
 
 Juicemix Labs
